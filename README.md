@@ -1,3 +1,3 @@
 # Cub-e
 
-![System Structure](systemoverview.png)
+![System Structure](systemstructure.png)
